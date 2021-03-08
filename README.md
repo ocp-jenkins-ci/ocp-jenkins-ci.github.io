@@ -1,4 +1,4 @@
-# How to publish the documentation as github page
+# How to publish the documentation as github page TEST
 
 1. Clone git@github.com:ocp-power-automation/ocp-power-automation.github.io.git and make changes
     ```
