@@ -18,3 +18,7 @@
 	path = docs/ocp-powervm-faq
 	url = https://github.com/ocp-power-automation/ocp-powervm-faq.git
 	branch = master
+[submodule "docs/jenkins-ci"]
+	path = docs/jenkins-ci
+	url = git@github.com:ocp-jenkins-ci/jenkins-ci.git
+	branch = main
